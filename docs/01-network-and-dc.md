@@ -46,7 +46,8 @@ into being.
    - *Attached to:* **NAT**
 5. Click **OK**.
 
-> 📸 Screenshot: the Adapter 1 settings showing Internal Network / labnet.
+> 📸 Screenshot:
+> ![Adapter 1 set to Internal Network / labnet](images/01-adapter1-labnet.png)
 
 ---
 
