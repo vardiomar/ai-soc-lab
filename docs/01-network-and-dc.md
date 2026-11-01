@@ -152,6 +152,7 @@ Resolve-DnsName watchkeeper.local
 If `Get-ADDomain` returns `watchkeeper.local` and no errors, Phase 1 is done.
 
 > 📸 Screenshot: the output of `Get-ADDomain`.
+> ![verification](images/06-verification-watchkeeper.png)
 
 **Last step:** power off and take a VirtualBox **snapshot** named
 `DC01-clean-promoted`. If anything breaks later, you roll back to here instead of
@@ -165,9 +166,7 @@ rebuilding.
 ---
 
 ## AI collaboration
-*(What you asked, what was right or wrong, what you decided. Example: did the AI's
-static-IP values match what your lab actually needed? Did you verify the domain
-name before committing to it?)*
+
 
 ---
 
