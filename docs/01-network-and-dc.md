@@ -64,7 +64,7 @@ If your VM is freshly created with the ISO attached, start it and install:
 5. Let it reboot to the desktop.
 
 > 📸 Screenshot: the Server Manager dashboard on first boot.
-> ![the server manager dashboard on first boot].(
+> ![the server manager dashboard on first boot](images/02-server-manager-firstboot.png)
 
 ---
 
