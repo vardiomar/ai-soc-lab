@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- AI SOC Lab specifics ---
+.env                  # API keys live here, never commit
+*.env
+secrets/
+notes/                # your private rough notes
+*.pcap                # full captures are big and may hold lab data
+*.pcapng
+!samples/*.pcap       # but DO allow small trimmed samples in samples/
+*.dmp
