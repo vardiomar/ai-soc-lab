@@ -90,9 +90,12 @@ look to it for DNS.
 6. Click OK.
 
 > 📸 Screenshot: the IPv4 settings filled in.
+> ![IPV4 static IP](images/03-static-ip-settings.png)
 
 **Verify:** open PowerShell and run `ipconfig`. The LAB adapter should show
 `10.10.10.10`.
+> 📸 Screenshot: the IPv4 settings filled in.
+> ![verify ipconfi](images/03-ipconfig-verify.png)
 
 ---
 
