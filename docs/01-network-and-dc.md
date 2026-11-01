@@ -129,6 +129,7 @@ This installs Active Directory and turns DC01 into the heart of the domain.
 7. The server reboots automatically.
 
 > 📸 Screenshot: the "Add a new forest / watchkeeper.local" page.
+> ![adding a new forest](images/05-new-forrest.png)
 
 ---
 
