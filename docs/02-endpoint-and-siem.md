@@ -40,8 +40,8 @@ New-ADUser -Name "Omar Analyst" -SamAccountName "oanalyst" `
   -Enabled $true
 ```
 
-> 📸 `02-domain-user-created.png` — the user visible in Active Directory Users
-> and Computers (`dsa.msc`).
+> 📸 `the user visible in Active Directory Users and Computers (`dsa.msc`).`
+> ![user visible in AD](images/02-domain-user-created.png)
 
 ---
 
