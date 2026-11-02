@@ -95,8 +95,7 @@ Resolve-DnsName watchkeeper.local
 Both must succeed before you go on. If `Resolve-DnsName` fails, DNS is pointed
 wrong — fix it here, don't proceed.
 
-> 📸 `successful ping and resolve.`
-> ![joingning watchkeeper](images/02-ws01-dns-verify.png)
+> 📸 ![`successful ping and resolve.`](images/02-ws01-dns-verify.png)
 
 ---
 
