@@ -68,7 +68,8 @@ Windows 11 needs TPM 2.0 and Secure Boot, which VirtualBox 7 can provide.
    account instead — this is a lab machine. Set a local admin password and save
    it to the VM's Description field.
 
-> 📸 `02-win11-desktop.png` — WS01 booted to desktop.
+> 📸 `WS01 booted to desktop.`
+> ![booted win11](images/02-win11-desktop.png)
 
 ---
 
