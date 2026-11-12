@@ -119,10 +119,10 @@ You'll be prompted for domain admin credentials — use
 `watchkeeper\oanalyst` with the password from Stage 1. A successful domain login
 is your proof.
 
-> 📸 `02-domain-login-success.png` — logged in as the domain user (the username
+> `Both machines show Domain Joined` — logged in as the domain user (the username
 > shows as WATCHKEEPER\oanalyst).
 
-**Snapshot** both machines now: `WS01-domain-joined`.
+> 📸 ![Snapshot of both machines now:](images/02-domain-login-success.png)
 
 ---
 
