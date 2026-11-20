@@ -40,7 +40,7 @@ New-ADUser -Name "Omar Analyst" -SamAccountName "oanalyst" `
   -Enabled $true
 ```
 
-> 📸 `the user visible in Active Directory Users and Computers (`dsa.msc`).`
+> 📸 `The user is visible in Active Directory Users and Computers (`dsa.msc`).`
 > ![user visible in AD](images/02-domain-user-created.png)
 
 ---
@@ -140,6 +140,7 @@ is your proof.
 4. Install OpenSSH when prompted, so you can manage it from your host terminal.
 
 > 📸 `02-ubuntu-ip.png` — `ip a` showing 10.10.10.30.
+> ![](/images/02-ubuntu-ip.png)
 
 ---
 
