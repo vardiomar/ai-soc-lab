@@ -140,7 +140,7 @@ is your proof.
 4. Install OpenSSH when prompted, so you can manage it from your host terminal.
 
 > 📸 `02-ubuntu-ip.png` — `ip a` showing 10.10.10.30.
-> ![showing ip a and openssh](/images/02-ubuntu-ip.png)
+> ![showing ip a and openssh](images/02-ubuntu-ip.png)
 
 ---
 
