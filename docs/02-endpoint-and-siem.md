@@ -182,6 +182,7 @@ All four should print `active`. Then browse to `https://10.10.10.30` from your
 host, accept the self-signed certificate warning, and log in as `admin`.
 
 > 📸 `02-wazuh-dashboard.png` — the Wazuh dashboard login and home screen.
+> ![wazuh dashboard](images/02-wazuh-dashboard.png)
 
 ---
 
